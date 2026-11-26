@@ -2,9 +2,9 @@
 
 **署名：** Chain.Ren · 独立研究
 
-**版本：** [proof-v1.0.0](https://github.com/Asakitan/lonely-runner/releases/tag/proof-v1.0.0) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
+**版本：** [proof-v1.0.1](https://github.com/Asakitan/lonely-runner/releases/tag/proof-v1.0.1) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
 
-本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，不主张已完成同行评审或核定全球首证。
+本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，未经同行评审。
 
 ## 问题与结论
 
@@ -19,7 +19,7 @@ $$
 
 ## 与文献的关系
 
-[Goddyn–Wong，Tight Instances of the Lonely Runner](https://www.sfu.ca/~goddyn/Papers/063tight_lonely_runner.pdf) 提出分类紧例，并特别指出七人（六个非零速度）可能只有标准例。[Cordella，2026 年预印本，第 6.3 节](https://arxiv.org/abs/2609.03444) 报告：六个速度最大值不超过 130 时只找到标准例的倍数，完整分类仍是其推广方法的障碍。[Zhang 关于紧例的工作](https://arxiv.org/abs/2608.13599) 另行处理替换标准速度等结构。本文证明一个限制第四速度的切片，不是重新证明一般孤独跑者猜想，也不主张这个切片此前未被隐含覆盖。以下论证不使用上述论文的计算输出。
+[Goddyn–Wong，Tight Instances of the Lonely Runner](https://www.sfu.ca/~goddyn/Papers/063tight_lonely_runner.pdf) 提出分类紧例，并特别指出七人（六个非零速度）可能只有标准例。[Cordella，2026 年预印本，第 6.3 节](https://arxiv.org/abs/2609.03444) 报告：六个速度最大值不超过 130 时只找到标准例的倍数，完整分类仍是其推广方法的障碍。[Zhang 关于紧例的工作](https://arxiv.org/abs/2608.13599) 另行处理替换标准速度等结构。本文证明一个限制第四速度的切片，不是重新证明一般孤独跑者猜想。以下论证不使用上述论文的计算输出。
 
 ## 一、为什么两个无界速度只留下有限分支
 

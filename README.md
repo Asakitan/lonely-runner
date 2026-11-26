@@ -2,7 +2,7 @@
 
 **证明署名：** Chain.Ren · 独立研究 · [完整证明](lonely-runner-proof.md) · 版本日期：2026-11-26
 
-[固定版本证明](https://github.com/Asakitan/lonely-runner/blob/proof-v1.0.0/lonely-runner-proof.md) · [GitHub Release 与公开时间](https://github.com/Asakitan/lonely-runner/releases/tag/proof-v1.0.0) · [引用信息](CITATION.cff)
+[固定版本证明](https://github.com/Asakitan/lonely-runner/blob/proof-v1.0.1/lonely-runner-proof.md) · [GitHub Release 与公开时间](https://github.com/Asakitan/lonely-runner/releases/tag/proof-v1.0.1) · [引用信息](CITATION.cff)
 
 一个静止观察者和六名跑者从单位圆上的同一点出发。记 $D$ 为所有时刻中，观察者到最近跑者的圆周距离所能达到的最大值。
 

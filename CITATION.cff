@@ -3,9 +3,9 @@ message: "To cite the independently released proof and verification materials, u
 title: "A bounded-fourth-speed slice of the six-speed lonely-runner tightness classification"
 authors:
   - family-names: "Chain.Ren"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-11-26"
-url: "https://github.com/Asakitan/lonely-runner/releases/tag/proof-v1.0.0"
+url: "https://github.com/Asakitan/lonely-runner/releases/tag/proof-v1.0.1"
 repository-code: "https://github.com/Asakitan/lonely-runner"
 license: MIT
 preferred-citation:
@@ -13,6 +13,6 @@ preferred-citation:
   title: "A bounded-fourth-speed slice of the six-speed lonely-runner tightness classification"
   authors:
     - family-names: "Chain.Ren"
-  version: "1.0.0"
+  version: "1.0.1"
   year: 2026
-  url: "https://github.com/Asakitan/lonely-runner/blob/proof-v1.0.0/lonely-runner-proof.md"
+  url: "https://github.com/Asakitan/lonely-runner/blob/proof-v1.0.1/lonely-runner-proof.md"
