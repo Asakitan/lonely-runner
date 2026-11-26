@@ -1,5 +1,11 @@
 # 六个整数速度何时恰好达到 1/7？一个无穷子族的分类
 
+**署名：** Chain.Ren · 独立研究
+
+**版本：** [proof-v1.0.0](https://github.com/Asakitan/lonely-runner/releases/tag/proof-v1.0.0) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
+
+本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，不主张已完成同行评审或核定全球首证。
+
 ## 问题与结论
 
 单位圆上有一个静止观察者和六个匀速跑者。对六个不同正整数速度，令

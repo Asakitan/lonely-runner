@@ -1,5 +1,9 @@
 # 孤独跑者：六个整数速度的紧例
 
+**证明署名：** Chain.Ren · 独立研究 · [完整证明](lonely-runner-proof.md) · 版本日期：2026-11-26
+
+[固定版本证明](https://github.com/Asakitan/lonely-runner/blob/proof-v1.0.0/lonely-runner-proof.md) · [GitHub Release 与公开时间](https://github.com/Asakitan/lonely-runner/releases/tag/proof-v1.0.0) · [引用信息](CITATION.cff)
+
 一个静止观察者和六名跑者从单位圆上的同一点出发。记 $D$ 为所有时刻中，观察者到最近跑者的圆周距离所能达到的最大值。
 
 对六个互异正整数速度，除以最大公因数并排序：**如果第四个速度不超过 12，$D=1/7$ 当且仅当归一化速度为 $(1,2,3,4,5,6)$**；其余组合的 $D$ 严格大于 $1/7$。
