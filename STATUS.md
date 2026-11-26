@@ -9,3 +9,5 @@
 495 个四速度前缀，8178 个五速度前缀，最终检查 529 个六元组。
 
 [工作记录](docs/session-log/README.md)。
+
+[仓库首页](README.md) · [MIT 许可证](LICENSE)。
